@@ -4,7 +4,7 @@ This repository contains the data-processing, analysis, and visualization code a
 
 **"Allele-Resolved Hybrid Embryos Reveal the Fates of Regulatory Divergence"**
 
-This study uses reciprocal interspecific hybrids between *Ciona intestinalis* and *Ciona savignyi* to investigate allele-specific gene expression and regulatory divergence during embryonic development at single-cell resolution.
+This study primarily uses hybrids generated from *Ciona intestinalis* eggs and *Ciona savignyi* sperm to investigate allele-resolved gene expression and regulatory divergence during embryonic development at single-cell and lineage resolution.
 
 ## Repository structure
 
