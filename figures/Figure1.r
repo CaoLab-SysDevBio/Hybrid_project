@@ -5,7 +5,7 @@ library(ggplot2)
 library(ggforce)
 library(dplyr)
 # all stage cells
-df <- read.csv("/groups/cao/Jiali/project_scdali/data/CsCi.10s.allelic.rates.1e-3_1e-300.processed.nmlt.anno.tissue.beau.adj.csv", row.names = 1) # cell x gene
+df <- read.csv("/CsCi.10s.allelic.rates.1e-3_1e-300.processed.nmlt.anno.tissue.beau.adj.csv", row.names = 1) # cell x gene
 mat <- as.matrix(df[, -ncol(df)])
 group <- df$cell_type
 sum_mat <- rowsum(mat, group)
