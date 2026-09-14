@@ -26,7 +26,7 @@ allele-specific and integrative analyses.
   Processing of single-cell multiome data.
 
 - `05.peak.counts.construction.r`  
-  Construction of allele-specific chromatin accessibility/peak count matrices.
+  Construction of allele-resolved chromatin accessibility/peak count matrices.
 
 ### `figures/`
 
