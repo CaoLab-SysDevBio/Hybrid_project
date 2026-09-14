@@ -10,8 +10,7 @@ This study primarily uses hybrids generated from *Ciona intestinalis* eggs and *
 
 ### `data_processing/`
 
-Scripts used to process sequencing data and construct the inputs for downstream
-allele-specific and integrative analyses.
+Scripts used to process sequencing data and construct the inputs for downstream allele-resolved and integrative analyses.
 
 - `01.allele.count.construction.r`  
   Construction of allelic count matrices.
